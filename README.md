@@ -83,15 +83,16 @@ To compare the performance of both models, you can pass the same prompt to each 
 
 .
 ├── llama3/
-│   ├── run\_llama3.py
+│   ├── run_llama3.py
 │   ├── requirements.txt
 │   └── ...
 ├── gemma7b/
-│   ├── run\_gemma7b.py
+│   ├── run_gemma7b.py
 │   ├── requirements.txt
 │   └── ...
 ├── README.md
-└── setup\_instructions.md
+└── setup_instructions.md
+
 
 ## Video Demonstration
 
