@@ -96,7 +96,7 @@ To compare the performance of both models, you can pass the same prompt to each 
 
 ## Video Demonstration
 
-A video demonstration of setting up and interacting with both models is available at: [YouTube Link](https://www.youtube.com/watch?v=QYL0Mm_D734&ab_channel=ProgramPassion)
+A video demonstration of setting up and interacting with both models is available at: [YouTube Link](https://youtu.be/9CvIERY34p4)
 
 ## Conclusion
 
